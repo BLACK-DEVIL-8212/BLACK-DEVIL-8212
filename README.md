@@ -1,10 +1,15 @@
-<!-- Text Header -->
+<!-- Animated Moving Header Background -->
 <div align="center">
-  <h1>Srijan Singh</h1>
-  <h3>Python & AI Developer</h3>
-  <p><i>I build intelligent software systems focused on AI agents, automation, developer tools, and real-world problem solving.</i></p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Srijan%20Singh&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=24" width="100%" />
+
   <br>
+
+  <!-- Animated Moving Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Agentic+AI+%26+Automation;Developer+Tools+%26+Web+Intelligence;Real-World+Problem+Solving" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
   
   <!-- Text Links -->
   <p>
@@ -17,8 +22,8 @@
 
 <br>
 
-<!-- Divider -->
-<hr>
+<!-- Moving Animated Divider (Pulse Line) -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- "What I Build" - Text Grid -->
 <h2 align="center">⚡ What I Build</h2>
@@ -47,8 +52,8 @@
 
 <br>
 
-<!-- Divider -->
-<hr>
+<!-- Moving Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- Tech Stack - Text Only -->
 <h2 align="center">💻 Tech Stack</h2>
@@ -71,8 +76,8 @@
 
 <br>
 
-<!-- Divider -->
-<hr>
+<!-- Moving Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- Featured Projects - Text Grid -->
 <h2 align="center">🌟 Featured Projects</h2>
@@ -101,10 +106,10 @@
 
 <br>
 
-<!-- Divider -->
-<hr>
+<!-- Moving Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Current Focus & Stats Side-by-Side (Text Only) -->
+<!-- Current Focus & Stats Side-by-Side -->
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -124,7 +129,5 @@
 
 <br>
 
-<!-- Text Footer -->
-<div align="center">
-  <p><i>I build, experiment, and continuously improve.</i></p>
-</div>
+<!-- Animated Moving Footer Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=140&section=footer&text=I%20build,%20experiment,%20and%20continuously%20improve.&fontSize=16&fontAlignY=80&animation=twinkling" width="100%" />

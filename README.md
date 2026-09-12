@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="animated-logo.svg" alt="Nexivo Animated Logo" width="400" />
+</div>
 <!-- Animated Moving Header Background -->
 <div align="center">
   <br>

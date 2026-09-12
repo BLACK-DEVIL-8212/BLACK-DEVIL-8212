@@ -1,6 +1,6 @@
 <!-- Animated Moving Header Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Srijan%20Singh&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=24" width="100%" />
+  <img src="section=header&text=Srijan%20Singh&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=24" width="100%" />
 
   <br>
 

@@ -12,9 +12,9 @@
   <!-- Text Links -->
   <p>
     <a href="https://www.linkedin.com/in/srijan-singh-6641b8251/">LinkedIn</a> &nbsp;•&nbsp;
-    <a href="#">Portfolio</a> &nbsp;•&nbsp;
-    <a href="#">Email</a> &nbsp;•&nbsp;
-    <a href="#">GitHub</a>
+    <a href="https://virevo.site.je/portfolio">Portfolio</a> &nbsp;•&nbsp;
+    <a href="shakshamshakshamsingh@gmail.com">Email</a> &nbsp;•&nbsp;
+    <a href="https://github.com/BLACK-DEVIL-8212">GitHub</a>
   </p>
 </div>
 

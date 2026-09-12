@@ -1,3 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="400" height="400">
+  <defs>
+    <!-- Define the circular path for the text to follow -->
+    <path id="text-path" d="M 250, 250 m -180, 0 a 180,180 0 1,1 360,0 a 180,180 0 1,1 -360,0" />
+    
+    <!-- Animation for the rotating text -->
+    <style>
+      .rotating-text {
+        font-family: 'Arial', sans-serif;
+        font-weight: bold;
+        font-size: 22px;
+        fill: #ffffff;
+        letter-spacing: 4px;
+        animation: spin 20s linear infinite;
+        transform-origin: 250px 250px;
+      }
+      @keyframes spin {
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Circle (Dark Blue/Black) -->
+  <circle cx="250" cy="250" r="240" fill="#0b131e" stroke="#1a2b3c" stroke-width="2"/>
+  
+  <!-- Inner Circle (To hold your product image) -->
+  <circle cx="250" cy="250" r="140" fill="#1c2e3d" />
+
+  <!-- Rotating Text -->
+  <text class="rotating-text">
+    <textPath href="#text-path" startOffset="0%">
+      EXTRAORDINARY • VALUE • WAY TO GROW • COLLECT • ARTWORKS • NEXIVO • 
+    </textPath>
+  </text>
+  
+  <!-- Placeholder for your product image -->
+  <!-- Replace the 'href' below with the raw URL of your product image -->
+  <image href="https://via.placeholder.com/200x200/ffffff/000000?text=Your+Product" x="150" y="150" height="200" width="200" />
+  
+  <!-- Decorative Crosses (like in your image) -->
+  <text x="420" y="80" fill="#00b4d8" font-size="24">+</text>
+  <text x="80" y="420" fill="#00b4d8" font-size="24">+</text>
+</svg>
 <!-- Animated Moving Header Background -->
 <div align="center">
   <br>

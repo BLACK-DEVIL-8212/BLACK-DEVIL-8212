@@ -1,6 +1,6 @@
 <!-- Header Banner with Custom Gradient & Typing Animation -->
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2](https://avatars.githubusercontent.com/u/75551857?v=4)&height=200&section=header&text=Srijan%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/75551857?s=400&u=45c8b35ffc093a669363d6ceac7194e582d9429b&v=4&height=200&section=header&text=Srijan%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=22" width="100%" />
 
   <br><br>
 

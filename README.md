@@ -1,5 +1,8 @@
 <!-- Animated Moving Header Background -->
 <div align="center">
+  <div align="center">
+  <img src="animated-logo.svg" alt="Nexivo Animated Logo" width="400" />
+</div>
   <br>
 
   <!-- Animated Moving Typing Subtitle -->

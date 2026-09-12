@@ -11,7 +11,7 @@
   
   <!-- Text Links -->
   <p>
-    <a href="#">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/srijan-singh-6641b8251/">LinkedIn</a> &nbsp;•&nbsp;
     <a href="#">Portfolio</a> &nbsp;•&nbsp;
     <a href="#">Email</a> &nbsp;•&nbsp;
     <a href="#">GitHub</a>

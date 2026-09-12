@@ -1,7 +1,8 @@
+<div align="center">
+  <img src="animated-logo.svg" alt="Nexivo Animated Logo" width="400" />
+</div>
 <!-- Animated Moving Header Background -->
 <div align="center">
-  <br>
-
   <!-- Animated Moving Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Agentic+AI+%26+Automation;Developer+Tools+%26+Web+Intelligence;Real-World+Problem+Solving" alt="Typing SVG" />

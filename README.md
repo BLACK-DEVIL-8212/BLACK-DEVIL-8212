@@ -10,12 +10,23 @@
   <br><br>
   
   <!-- Text Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/srijan-singh-6641b8251/">LinkedIn</a> &nbsp;•&nbsp;
-    <a href="https://virevo.site.je/portfolio">Portfolio</a> &nbsp;•&nbsp;
-    <a href="shakshamshakshamsingh@gmail.com">Email</a> &nbsp;•&nbsp;
-    <a href="https://github.com/BLACK-DEVIL-8212">GitHub</a>
-  </p>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/srijan-singh-6641b8251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://virevo.site.je/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:shakshamshakshamsingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BLACK-DEVIL-8212">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 </div>
 
 <br>

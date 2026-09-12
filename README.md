@@ -1,7 +1,5 @@
 <!-- Animated Moving Header Background -->
 <div align="center">
-  <img src="section=header&text=Srijan%20Singh&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=24" width="100%" />
-
   <br>
 
   <!-- Animated Moving Typing Subtitle -->

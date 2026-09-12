@@ -1,6 +1,6 @@
-<!-- Header Banner with Custom Gradient & Typing Animation -->
+<!-- Header Banner with Custom Gradient -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/75551857?s=400&u=45c8b35ffc093a669363d6ceac7194e582d9429b&v=4&height=200&section=header&text=Srijan%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Srijan%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%26%20AI%20Developer&descAlignY=58&descSize=22" width="100%" />
 
   <br><br>
 
@@ -23,27 +23,27 @@
 <!-- Custom Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- "What I Build" - Bento Box Grid -->
+<!-- "What I Build" - Bento Box Grid (Fixed for GitHub) -->
 <h2 align="center">⚡ What I Build</h2>
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-      <h3>🤖 Agentic AI & Assistants</h3>
-      <p>Autonomous systems that reason, use tools, and execute complex tasks.</p>
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/🤖_Agentic_AI_&_Assistants-000000?style=for-the-badge&logoColor=white" alt="Agentic AI" /><br>
+      <p><i>Autonomous systems that reason, use tools, and execute complex tasks.</i></p>
     </td>
-    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-      <h3>⚙️ Python Automation</h3>
-      <p>Web crawling, data extraction pipelines, and SEO automation engines.</p>
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/⚙️_Python_Automation-000000?style=for-the-badge&logoColor=white" alt="Python Automation" /><br>
+      <p><i>Web crawling, data extraction pipelines, and SEO automation engines.</i></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-      <h3>🛠️ Developer Tools</h3>
-      <p>Intelligent web intelligence systems and PyQt desktop applications.</p>
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/🛠️_Developer_Tools-000000?style=for-the-badge&logoColor=white" alt="Developer Tools" /><br>
+      <p><i>Intelligent web intelligence systems and PyQt desktop applications.</i></p>
     </td>
-    <td width="50%" align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
-      <h3>👁️ Machine Learning</h3>
-      <p>Computer vision systems and predictive machine learning applications.</p>
+    <td width="50%" align="center" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/👁️_Machine_Learning-000000?style=for-the-badge&logoColor=white" alt="Machine Learning" /><br>
+      <p><i>Computer vision systems and predictive machine learning applications.</i></p>
     </td>
   </tr>
 </table>

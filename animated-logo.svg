@@ -39,19 +39,12 @@
     </text>
   </g>
 
-  <!-- Center Logo (Now with thick stroke to make it solid and bold) -->
+  <!-- Center Logo (Correctly flipped and centered) -->
   <!-- 
-       fill="none" removes the messy fill.
-       stroke="#c5a059" colors it gold.
-       stroke-width="25" makes it thick and bold (since it's scaled down 8x, 25 becomes ~2px visually).
-       translate(115, 110) centers it perfectly.
+       scale(0.08, -0.08) flips the Y-axis to make the stag right-side up.
+       translate(100, 140) centers it perfectly in the circle.
   -->
-  <g transform="translate(115, 110) scale(0.08) translate(0, 263)" 
-     fill="none" 
-     stroke="#c5a059" 
-     stroke-width="25" 
-     stroke-linejoin="round" 
-     stroke-linecap="round">
+  <g transform="translate(100, 140) scale(0.08, -0.08)" fill="#c5a059">
     <path d="M1908 2497 c-9 -12 -34 -77 -58 -144 -24 -71 -53 -133 -66 -146 -13
     -13 -51 -32 -85 -42 -66 -20 -109 -48 -109 -71 0 -19 55 -51 101 -59 52 -9 62
     -23 50 -76 -6 -29 -21 -54 -41 -72 l-32 -28 -38 44 c-50 57 -110 85 -146 68

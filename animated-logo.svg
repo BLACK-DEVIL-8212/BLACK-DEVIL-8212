@@ -40,9 +40,8 @@
   </g>
 
   <!-- Center Logo (Your SVG Paths scaled and centered) -->
-  <!-- The transform moves the logo to the center (x=128, y=35) and scales it down to 25% -->
-  <!-- The translate value (0, 263) accounts for the original SVG's coordinate system -->
-  <g transform="translate(128, 45) scale(0.25) translate(0, 263)" fill="#c5a059">
+  <!-- The transform centers the logo and scales it to 8% to fit perfectly -->
+  <g transform="translate(178, 165) scale(0.08) translate(0, 263)" fill="#c5a059">
     <path d="M1908 2497 c-9 -12 -34 -77 -58 -144 -24 -71 -53 -133 -66 -146 -13
     -13 -51 -32 -85 -42 -66 -20 -109 -48 -109 -71 0 -19 55 -51 101 -59 52 -9 62
     -23 50 -76 -6 -29 -21 -54 -41 -72 l-32 -28 -38 44 c-50 57 -110 85 -146 68
